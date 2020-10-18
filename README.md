@@ -4,7 +4,7 @@ A fork of Magnum Opus by Lively, tweaked for long-term replayability & countless
 
 # **_INTRODUCTION_**
 Please read this guide in its entirety. Every part of it is important, and I cannot guarantee a stable game if you do not follow the directions.
-Full documentation (including changelogs) can be found [[Here]](https://docs.google.com/document/d/1c0cF2qT7wGqmt9Ze5QjoXhNPRiri0abGVsABF-dwqRw/edit?usp=sharing)
+Full documentation (including changelogs) can be found [on my github for Valhalla.](https://github.com/xVal429/Valhalla)
 Before we start, there are some basic things that you should know;
 - This list is a fork of Magnum Opus by Lively. Do not contact Lively for support. 
 - This list is designed to be played on ‘Very Hard’ difficulty with some aspects of Survival Mode combined into it, specifically how stimpaks work & riskier combat.
