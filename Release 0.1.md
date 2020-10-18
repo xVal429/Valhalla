@@ -1,4 +1,5 @@
 ![N|Solid](https://i.imgur.com/TfMhdNG.png)
+
 The first stable release is here.
 
 ## ADDED
