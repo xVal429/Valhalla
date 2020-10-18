@@ -37,53 +37,103 @@ The first stable release is here.
 *I'm not going to link every mod I removed, if you want links head to the changelog section of the old [Valhalla Documentation.](https://docs.google.com/document/d/1c0cF2qT7wGqmt9Ze5QjoXhNPRiri0abGVsABF-dwqRw/edit?usp=sharing)*
 
 AQUILA - Laser Rifle
+
 Anime Eyes
+
 Army Fatigues Tiger Stripe 
+
 Build Your Own Pool
+
 Black Feather Dress
+
 Black Widow Armor
+
 Bullpup Bozar
+
 Calamity Weathers
+
 Calamity Weathers - Vibrant Tweaks and More Weathers
+
 Calamity Weathers - Interiors
+
 Calamity Weathers - Reverb Ambient Overhaul
+
 Carbon Fiber Metal Armor
+
 Caliente’s Beautiful Bodies Enhancer Reduced
+
 Chem-I-Care Outfit
+
 Classic Metal Armor
+
 Courser X-92 Power Suit
+
 Courser X-92 Power Suit Male Addon
+
 CROSS Cryolance
+
 CROSS Institute Tech Mask
+
 CWSS Redux v3
+
 Diamond City Auto Close Gate
+
 Dread Cait Overhaul
+
 Evil Detective
+
 Fire Axe
+
 Fire Axe Animation Replacer
+
 Harvest Restrictions Only
+
 HN66 Sirius Assault Armor
+
 Hunter Set
+
 Lacy Underwear
+
 Lighting Series - All In One
+
 Live Action Mr. Handy
+
 Mean Machine Eyes
+
 NanoArmor
+
 NanoHelmet Variations
+
+
 No Quest Autostart - Automatron
+
 No Quest Autostart - BOS Fire Support
+
 No Quest Autostart - Far Harbor
+
 No Quest Autostart - Nuka World
+
 Road Flares
+
 Robot Home Defence
+
 Robot Home Defence - Settlement Keyword Patch
+
 Sell Paint to Abbot
 Simply Clothes for Female
+
 Stealth Field Stability
+
 Take Your Cores
+
 The Waste Landfill
+
 Tomacuzi-9
+
 Toxic Raider Armor
+
 Vault 81 Etiquette
+
 Waster Armor
+
 Widow Shotgun
