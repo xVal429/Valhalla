@@ -107,14 +107,16 @@ Now we can launch the game. Once you finish character customization, you’ll ha
 **This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
 
 #### MCM Settings:
+
 **_DO THESE AS SOON AS YOU EXIT THE CRYO POD_**
+
 _Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
-Better Locational Damage;
-### Mod Settings:
-	Stronger Bleedings: Off
-	Brutality: Off
-	Stab And Break: On
+### Better Locational Damage;
+	Mod Settings:
+		Stronger Bleedings: Off
+		Brutality: Off
+		Stab And Break: On
 ### Companion Command;
 	Command Companion: U
 	Trade With Companion: CTRL+U
@@ -123,7 +125,7 @@ Better Locational Damage;
 ### FallSouls;
     Console: Off
     PauseMenu: Off
-	MessageBoxMenu: Off
+    MessageBoxMenu: Off
     SPECIALMenu: Off
 ### Faster Workshop; 
 	Start Workshop Mode: G
@@ -168,7 +170,9 @@ Better Locational Damage;
 		 Toggle Flight: ‘
 ### Zebrina’s Workshop Devices
         Complex Recipes: On
+
 #### Holotape Settings:
+
 **_DO THESE AS SOON AS YOU EXIT VAULT 111_**
 When you leave the Vault, open your Pip-Boy and navigate to the MISC tab.
 * Settings Holotape -> Beantown Interiors
