@@ -180,3 +180,16 @@ Last but certainly not least, head to _‘Apparel’_ and bind _NAC X SETTINGS M
 
 ### _That’s it! You’re all good to go and you should be ready to explore the Commonwealth._
 
+
+#### CREDITS
+Thank you to all the authors of the mods I’ve included in this list. Without you, this list isn’t possible. Thank you for sharing your work publicly and as such allowing me to compile this list for other people. If you don’t want your mod included in my list, please let me know. -Val
+
+Thank you to the Wabbajack team for developing Wabbajack itself.
+
+A huge thank you to LivelyDismay#7243 for letting me make a fork of Magnum Opus, and for providing a ton of assistance with modding.
+
+Thank you to Leon_DP#0420 for wanting me to make a Wabbajack because he’s lazy and likes to use the exact same mods as me.
+
+And last but certainly not least, thank you for downloading this list and/or at the very least reading this documentation.
+
+
