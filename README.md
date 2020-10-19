@@ -138,7 +138,7 @@ _Note: Anything involving hotkeys can be set up however you like. These are simp
 		Damage Taken
 			Very Hard: Set to 3
 		Damage Done
-			Very Hard: Set to 2.5
+			Very Hard: Set to 1.5 (Remember, this list has Better Locational Damage which already makes the weapons a bit more powerful even if you dont get a headshot.)
 		Effect Duration
 			Very Hard: Set to 10
 		Effect Magnitude
