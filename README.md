@@ -37,7 +37,7 @@ Once Fallout 4 is installed, run it once through Steam. This will establish regi
 
 #### **_Post Installation Instructions:_**
 
-Navigate back to your Magnum Opus installation folder.  
+Navigate back to your Valhalla installation folder.  
 Open “Game Folder Files”  
 Copy everything in this folder.  
 Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
