@@ -33,6 +33,7 @@ Once Fallout 4 is installed, run it once through Steam. This will establish regi
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
 4. Download the Valhalla.wabbajack file from the [Valhalla Google Drive](https://drive.google.com/drive/u/0/folders/1-ReP39R6OpbM-ewKpJ4fBD2Fcwl3oTz5)
+4a. Run Valhalla.wabbajack after putting it somewhere.
 5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Valhalla). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
 6. The “Download Location” will update automatically. You can change it if you want.
 7. Click the "Play" arrow.
