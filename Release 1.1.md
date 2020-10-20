@@ -10,13 +10,10 @@ Creation Club support coming soon, as well as an optional profile to disable som
 
 ## CHANGED
 
-Set the following in Fallout4Prefs.ini **WARNING: CAN IMPACT FPS.** "bScreenSpaceReflections=1"
-
-Updated the See-Through-Scopes patches to include the RobCo Recon Scope Replacer.
-
-Updated the mod list name in Mod Organizer. It no longer says 'Magnum Opus', and instead properly reflects the fact that we're a fork of the list with our own name.
-
-Updated PraVisifier & Valhalla Edits to properly give things tags/resolve a few conflicts/etc. Like always, let me know of any inconsistencies in my naming.
+* Set the following in Fallout4Prefs.ini **WARNING: CAN IMPACT FPS.** "bScreenSpaceReflections=1"
+* Updated the See-Through-Scopes patches to include the RobCo Recon Scope Replacer.
+* Updated the mod list name in Mod Organizer. It no longer says 'Magnum Opus', and instead properly reflects the fact that we're a fork of the list with our own name.
+* Updated PraVisifier & Valhalla Edits to properly give things tags/resolve a few conflicts/etc. Like always, let me know of any inconsistencies in my naming.
 
 *Please report any bugs to me. Thank you :)*
 
